@@ -1,4 +1,4 @@
-Hi there 👋, my name is Matteo
+Hi there 👋, my name is Matteo!
 
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattesala97/)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/matteo_sala?si=cdf49af6030f4c7e)
@@ -17,7 +17,11 @@ Since October 1, 2024, I've been part of an Odoo-focused company, where we speci
 
 My role involves:
 🔹 Developing custom Odoo modules to improve business efficiency
+
+
 🔹 Creating modern, user-friendly designs for Odoo-based applications
+
+
 
 We recently transitioned into using Odoo's Enterprise ecosystem, and I’m excited to push its capabilities to the max. While I’m still mastering Python and XML, the journey has been incredibly rewarding and we're already achieving big results! 🚀
 

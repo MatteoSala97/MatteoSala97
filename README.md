@@ -16,6 +16,8 @@ Outside of work, you'll often find me snowboarding 🏂 in the winter, playing v
 Since October 1, 2024, I've been part of an Odoo-focused company, where we specialize in custom ERP solutions that help businesses streamline their processes. We’re proud to be Gold Partners—the first in our area 🥇—delivering cutting-edge Odoo implementations tailored to each client’s needs.
 
 My role involves:
+
+
 🔹 Developing custom Odoo modules to improve business efficiency
 
 

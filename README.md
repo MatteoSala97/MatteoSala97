@@ -20,8 +20,9 @@ My role involves:
 
 🔹 Developing custom Odoo modules to improve business efficiency
 
-
 🔹 Creating modern, user-friendly designs for Odoo-based applications
+
+🔹 Teaching Odoo and its ways to boost your company
 
 
 

@@ -30,7 +30,5 @@ We recently transitioned into using Odoo's Enterprise ecosystem, and I’m excit
 
 🎶 Know who i am and listen to my music! 🎶
 
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattesala97/)
-
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/matteo_sala?si=cdf49af6030f4c7e)
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattesala97/) [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/matteo_sala?si=cdf49af6030f4c7e)
 

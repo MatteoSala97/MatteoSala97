@@ -28,12 +28,13 @@ We recently transitioned into using Odoo's Enterprise ecosystem, and I’m excit
 💡 I'm always open to collaborations, knowledge sharing, and new challenges in the Odoo ecosystem. If you're working on something cool, let's connect! 🔧📈
 
 
-📊 Code Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoSala97&layout=compact&langs_count=6&theme=default)
 ![Languages](https://img.shields.io/github/languages/top/MatteoSala97/MatteoSala97)
 ![Repo Size](https://img.shields.io/github/repo-size/MatteoSala97/MatteoSala97)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/MatteoSala97/MatteoSala97)
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 🎶 Know who I am and listen to my music! 🎶
 

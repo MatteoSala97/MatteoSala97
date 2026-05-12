@@ -10,10 +10,8 @@ Since October 1, 2024, I've been part of an Odoo-focused company, where we speci
 
 CEO of www.cubevault.net
 
-I'm always open to collaborations, knowledge sharing, and new challenges in the Odoo ecosystem.
 
 
-- Know who I am and listen to my music! -
 
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattesala97/) [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/matteo_sala?si=cdf49af6030f4c7e)
 [![CubeVault](https://img.shields.io/badge/CubeVault-FF6B35?style=for-the-badge&logo=cube&logoColor=white)](https://cubevault.net)

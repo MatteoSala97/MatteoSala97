@@ -8,7 +8,7 @@ I'm Matteo, an Italian 🇮🇹 Odoo Developer & Web Designer.
 
 Since October 1, 2024, I've been part of an Odoo-focused company, where we specialize in custom ERP solutions that help businesses streamline their processes.
 
-CEO of cubevault.net [![CubeVault](https://img.shields.io/badge/CubeVault-cubevault.net-blue?style=flat-square)](https://cubevault.net)
+CEO of [![CubeVault](https://img.shields.io/badge/CubeVault-cubevault.net-blue?style=flat-square)](https://cubevault.net)
 
 I'm always open to collaborations, knowledge sharing, and new challenges in the Odoo ecosystem.
 
